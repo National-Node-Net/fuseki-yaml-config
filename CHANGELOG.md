@@ -19,16 +19,12 @@ This project follows **Semantic Versioning (SemVer)** ([semver.org](https://semv
 
 ## 0.90.1 – 2026-07-16
 
-### Added
-- Placeholder for upcoming features and enhancements.
-
 ### Fixed
 - Fix failing unit test for bad yaml config in [TestYAMLConfigParser.java](src/test/java/yamlconfig/TestYAMLConfigParser.java).
 - Remove superfluous command from [installation](/INSTALLATION.md) guide.
 
 ### Changed
 - Alignment of GitHub actions to new organisation.
-- Placeholder for changes to existing functionality.
 
 ---
 
