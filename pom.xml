@@ -34,12 +34,12 @@
 
     <name>Fuseki YAML Config Parser</name>
     <description>Fuseki YAML config support</description>
-    <url>https://github.com/National-Digital-Twin/fuseki-yaml-config</url>
+    <url>https://github.com/National-Node-Net/fuseki-yaml-config</url>
 
     <scm>
-        <connection>scm:git:git:/https://github.com/National-Digital-Twin/fuseki-yaml-config.git</connection>
-        <developerConnection>scm:git:git@github.com:National-Digital-Twin/fuseki-yaml-config.git</developerConnection>
-        <url>https://github.com/National-Digital-Twin/fuseki-yaml-config</url>
+        <connection>scm:git:git:/https://github.com/National-Node-Net/fuseki-yaml-config.git</connection>
+        <developerConnection>scm:git:git@github.com:National-Node-Net/fuseki-yaml-config.git</developerConnection>
+        <url>https://github.com/National-Node-Net/fuseki-yaml-config</url>
         <tag>1.0.5</tag>
     </scm>
 
@@ -248,7 +248,7 @@
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/National-Digital-Twin/*</url>
+            <url>https://maven.pkg.github.com/National-Node-Net/*</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -261,12 +261,12 @@
         <snapshotRepository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/National-Digital-Twin/fuseki-yaml-config</url>
+            <url>https://maven.pkg.github.com/National-Node-Net/fuseki-yaml-config</url>
         </snapshotRepository>
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/National-Digital-Twin/fuseki-yaml-config</url>
+            <url>https://maven.pkg.github.com/National-Node-Net/fuseki-yaml-config</url>
         </repository>
     </distributionManagement>
 </project>

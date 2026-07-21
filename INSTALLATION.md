@@ -7,12 +7,10 @@
 ## 1. Build:
 ```sh
 cd fuseki-yaml-config
+
 mvn clean
 
-# Confirm that the confluentinc/cp-kafka image used in tests is available
-[ -z "$(docker image ls --format json confluentinc/cp-kafka:7.3.3)" ] && echo "Missing" || echo "Present"
-
-# Download confluentinc/cp-kafka if the image is missing:
+# Download the specified version of confluentinc/cp-kafka, if the image is missing
 docker pull confluentinc/cp-kafka:7.3.3
 
 # Create output directory for tests

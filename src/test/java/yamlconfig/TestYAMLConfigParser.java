@@ -234,11 +234,11 @@ public class TestYAMLConfigParser {
             ycp.runYAMLParser("src/test/files/yaml/wrong/config-bad-yaml.yaml");
         });
         assertEquals("while scanning a simple key\n" +
-                " in 'reader', line 2, column 1:\n" +
+                " in 'reader', line 24, column 1:\n" +
                 "    server\n" +
                 "    ^\n" +
                 "could not find expected ':'\n" +
-                " in 'reader', line 3, column 7:\n" +
+                " in 'reader', line 25, column 7:\n" +
                 "      name: \"Fuseki server 1\"\n" +
                 "          ^\n", ex.getMessage());
     }
