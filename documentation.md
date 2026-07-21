@@ -43,7 +43,7 @@ If the `dbtype` is the former, the database has to have a defined String `data`,
 A database also has a `settings` field, which just like in the other objects, is optional and a map.
 
 #### ABAC
-A `database` can have one more type: `ABAC`. [ABAC databases](https://github.com/National-Digital-Twin/rdf-abac/tree/bba08411276e139743c038b39382ae477663a5e1) have a number of additional fields, as well as an underlying either
+A `database` can have one more type: `ABAC`. [ABAC databases](https://github.com/National-Node-Net/rdf-abac/tree/bba08411276e139743c038b39382ae477663a5e1) have a number of additional fields, as well as an underlying either
 `TDB2` or `TIM` database. 
 
 One of the mandatory ABAC database fields is `dataset`, with the name of the underlying database as the value. 
@@ -61,7 +61,7 @@ databases:
     data: "src/main/files/abac/data-and-labels.trig"
 ```
 #### Jena Fuseki Kafka Connectors
-The parser also supports [Fuseki-Kafka connector](https://github.com/National-Digital-Twin/jena-fuseki-kafka?tab=readme-ov-file) configuration.
+The parser also supports [Fuseki-Kafka connector](https://github.com/National-Node-Net/jena-fuseki-kafka?tab=readme-ov-file) configuration.
 The connectors are defined in an optional `connectors` list. Each has a mandatory destination Fuseki service name(`fuseki-service`) field,
 `topic`, `bootstrap-servers`, and `state-file`, as well as optional Boolean `replay-topic` and `sync-topic` fields, and `group-id`.
 ```
