@@ -126,7 +126,7 @@ This `ConfigStruct` can then be passed as an argument to `RDFConfigGenerator`'s 
 return an RDF model of the config file in the [standard Fuseki format](https://jena.apache.org/documentation/fuseki2/fuseki-configuration.html). That model can then be written to a TTL file.
 
 ---
-© Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the
+© Crown Copyright 2026. This work has been developed by the National Digital Twin Programme and is legally attributed to the UK's Department for Business, Innovation, Science and Trade (BIST) as the
 governing entity.
 
 Licensed under the Open Government Licence v3.0.
