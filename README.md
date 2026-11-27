@@ -1,4 +1,4 @@
-![OSPO compliance](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/fuseki-yaml-config/ospo-compliance.svg) ![Develop activity](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/fuseki-yaml-config/develop-activity.svg) ![Last checked](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/fuseki-yaml-config/last-checked.svg)
+![OSPO compliance](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/fuseki-yaml-config/ospo-compliance.svg) ![Days since last commit to develop branch](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/fuseki-yaml-config/develop-activity.svg) ![Last checked](https://raw.githubusercontent.com/National-Node-Net/ndt-overwatch/sync/governance-badges/repositories/fuseki-yaml-config/last-checked.svg)
 
 # README
 
